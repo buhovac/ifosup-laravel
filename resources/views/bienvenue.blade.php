@@ -6,4 +6,4 @@
     <h2>¡Bienvenido!</h2>
 @else
     <h2>Langue non supportée.</h2>
-@endif<?php
+@endif
